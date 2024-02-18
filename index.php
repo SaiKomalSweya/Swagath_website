@@ -401,7 +401,7 @@
                     <div class="cinfo">
                         <h5>Where to Find Us</h5>
                         <p>
-                            Villa & Post - Kadiam<br>
+                            Village & Post - Kadiam<br>
                             Kadiam Mandalam<br>
                             Dist- East Godavari<br>
                             Pin Code 533126
