@@ -696,10 +696,7 @@
 
         </div> <!-- end footer-bottom -->
 
-    </footer> <!-- end footer -->
-
-
-
+    </footer> 
 
     <!-- preloader
     ================================================== -->
